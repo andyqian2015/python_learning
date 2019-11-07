@@ -1,2 +1,2 @@
 # python_learning
-python
+## 利用__all__函数实现对函数选择
